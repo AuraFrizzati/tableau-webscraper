@@ -1,0 +1,433 @@
+Organism_Name,HB,FY,Total_Specimens,CO_Specimens,HO_Specimens,FY_Pop,FY_Total_Pop_Rate,FY_HO_Pop_Rate,FY_Adm,FY_Total_Adm_Rate,FY_HO_Adm_Rate
+C. difficile,Aneurin Bevan UHB,2020/21,146,97,49,598194.00002,24.41,8.19,75634,1.93,0.65
+C. difficile,Betsi Cadwaladr UHB,2020/21,212,128,84,703361.0,30.14,11.94,75337,2.81,1.11
+C. difficile,Cardiff and Vale UHB,2020/21,99,50,49,504497.0,19.62,9.71,48763,2.03,1.0
+C. difficile,Cwm Taf Morgannwg UHB,2020/21,112,63,49,449836.00004,24.9,10.89,50482,2.22,0.97
+C. difficile,Hywel Dda UHB,2020/21,138,77,61,389719.00001,35.41,15.65,38465,3.59,1.59
+C. difficile,Powys THB,2020/21,7,5,2,133030.00002,5.26,1.5,1467,4.77,1.36
+C. difficile,Swansea Bay UHB,2020/21,160,83,77,390948.99999,40.93,19.7,43389,3.69,1.77
+C. difficile,Velindre NHST,2020/21,6,3,3,,,,1857,3.23,1.62
+C. difficile,Wales,2020/21,880,506,374,3169586.00008,27.76,11.8,335394,2.62,1.12
+E. coli bacteraemia,Aneurin Bevan UHB,2020/21,295,217,78,598194.00002,49.32,13.04,75634,3.9,1.03
+E. coli bacteraemia,Betsi Cadwaladr UHB,2020/21,440,346,94,703361.0,62.56,13.36,75337,5.84,1.25
+E. coli bacteraemia,Cardiff and Vale UHB,2020/21,280,198,82,504497.0,55.5,16.25,48763,5.74,1.68
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2020/21,317,259,58,449836.00004,70.47,12.89,50482,6.28,1.15
+E. coli bacteraemia,Hywel Dda UHB,2020/21,299,241,58,389719.00001,76.72,14.88,38465,7.77,1.51
+E. coli bacteraemia,Powys THB,2020/21,5,1,4,133030.00002,3.76,3.01,1467,3.41,2.73
+E. coli bacteraemia,Swansea Bay UHB,2020/21,241,176,65,390948.99999,61.64,16.63,43389,5.55,1.5
+E. coli bacteraemia,Velindre NHST,2020/21,6,5,1,,,,1857,3.23,0.54
+E. coli bacteraemia,Wales,2020/21,1883,1443,440,3169586.00008,59.41,13.88,335394,5.61,1.31
+Gram negative bacteraemia,Aneurin Bevan UHB,2020/21,435,292,143,598194.00002,72.72,23.91,75634,5.75,1.89
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2020/21,602,452,150,703361.0,85.59,21.33,75337,7.99,1.99
+Gram negative bacteraemia,Cardiff and Vale UHB,2020/21,409,255,154,504497.0,81.07,30.53,48763,8.39,3.16
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2020/21,433,328,105,449836.00004,96.26,23.34,50482,8.58,2.08
+Gram negative bacteraemia,Hywel Dda UHB,2020/21,394,300,94,389719.00001,101.1,24.12,38465,10.24,2.44
+Gram negative bacteraemia,Powys THB,2020/21,8,1,7,133030.00002,6.01,5.26,1467,5.45,4.77
+Gram negative bacteraemia,Swansea Bay UHB,2020/21,362,241,121,390948.99999,92.6,30.95,43389,8.34,2.79
+Gram negative bacteraemia,Velindre NHST,2020/21,8,6,2,,,,1857,4.31,1.08
+Gram negative bacteraemia,Wales,2020/21,2651,1875,776,3169586.00008,83.64,24.48,335394,7.9,2.31
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2020/21,116,59,57,598194.00002,19.39,9.53,75634,1.53,0.75
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2020/21,129,82,47,703361.0,18.34,6.68,75337,1.71,0.62
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2020/21,100,43,57,504497.0,19.82,11.3,48763,2.05,1.17
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2020/21,96,54,42,449836.00004,21.34,9.34,50482,1.9,0.83
+Klebsiella sp bacteraemia,Hywel Dda UHB,2020/21,73,45,28,389719.00001,18.73,7.18,38465,1.9,0.73
+Klebsiella sp bacteraemia,Powys THB,2020/21,2,0,2,133030.00002,1.5,1.5,1467,1.36,1.36
+Klebsiella sp bacteraemia,Swansea Bay UHB,2020/21,102,51,51,390948.99999,26.09,13.05,43389,2.35,1.18
+Klebsiella sp bacteraemia,Velindre NHST,2020/21,2,1,1,,,,1857,1.08,0.54
+Klebsiella sp bacteraemia,Wales,2020/21,620,335,285,3169586.00008,19.56,8.99,335394,1.85,0.85
+MRSA bacteraemia,Aneurin Bevan UHB,2020/21,10,6,4,598194.00002,1.67,0.67,75634,0.13,0.05
+MRSA bacteraemia,Betsi Cadwaladr UHB,2020/21,7,7,0,703361.0,1.0,0.0,75337,0.09,0.0
+MRSA bacteraemia,Cardiff and Vale UHB,2020/21,11,3,8,504497.0,2.18,1.59,48763,0.23,0.16
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2020/21,6,2,4,449836.00004,1.33,0.89,50482,0.12,0.08
+MRSA bacteraemia,Hywel Dda UHB,2020/21,10,8,2,389719.00001,2.57,0.51,38465,0.26,0.05
+MRSA bacteraemia,Powys THB,2020/21,0,0,0,133030.00002,0.0,0.0,1467,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2020/21,3,2,1,390948.99999,0.77,0.26,43389,0.07,0.02
+MRSA bacteraemia,Velindre NHST,2020/21,0,0,0,,,,1857,0.0,0.0
+MRSA bacteraemia,Wales,2020/21,47,28,19,3169586.00008,1.48,0.6,335394,0.14,0.06
+MSSA bacteraemia,Aneurin Bevan UHB,2020/21,147,88,59,598194.00002,24.57,9.86,75634,1.94,0.78
+MSSA bacteraemia,Betsi Cadwaladr UHB,2020/21,150,109,41,703361.0,21.33,5.83,75337,1.99,0.54
+MSSA bacteraemia,Cardiff and Vale UHB,2020/21,119,70,49,504497.0,23.59,9.71,48763,2.44,1.0
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2020/21,110,68,42,449836.00004,24.45,9.34,50482,2.18,0.83
+MSSA bacteraemia,Hywel Dda UHB,2020/21,84,61,23,389719.00001,21.55,5.9,38465,2.18,0.6
+MSSA bacteraemia,Powys THB,2020/21,1,0,1,133030.00002,0.75,0.75,1467,0.68,0.68
+MSSA bacteraemia,Swansea Bay UHB,2020/21,119,76,43,390948.99999,30.44,11.0,43389,2.74,0.99
+MSSA bacteraemia,Velindre NHST,2020/21,2,2,0,,,,1857,1.08,0.0
+MSSA bacteraemia,Wales,2020/21,732,474,258,3169586.00008,23.09,8.14,335394,2.18,0.77
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2020/21,24,16,8,598194.00002,4.01,1.34,75634,0.32,0.11
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2020/21,33,24,9,703361.0,4.69,1.28,75337,0.44,0.12
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2020/21,29,14,15,504497.0,5.75,2.97,48763,0.59,0.31
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2020/21,20,15,5,449836.00004,4.45,1.11,50482,0.4,0.1
+P. aeruginosa bacteraemia,Hywel Dda UHB,2020/21,22,14,8,389719.00001,5.65,2.05,38465,0.57,0.21
+P. aeruginosa bacteraemia,Powys THB,2020/21,1,0,1,133030.00002,0.75,0.75,1467,0.68,0.68
+P. aeruginosa bacteraemia,Swansea Bay UHB,2020/21,19,14,5,390948.99999,4.86,1.28,43389,0.44,0.12
+P. aeruginosa bacteraemia,Velindre NHST,2020/21,0,0,0,,,,1857,0.0,0.0
+P. aeruginosa bacteraemia,Wales,2020/21,148,97,51,3169586.00008,4.67,1.61,335394,0.44,0.15
+S. aureus bacteraemia,Aneurin Bevan UHB,2020/21,157,94,63,598194.00002,26.25,10.53,75634,2.08,0.83
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2020/21,157,116,41,703361.0,22.32,5.83,75337,2.08,0.54
+S. aureus bacteraemia,Cardiff and Vale UHB,2020/21,130,73,57,504497.0,25.77,11.3,48763,2.67,1.17
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2020/21,116,70,46,449836.00004,25.79,10.23,50482,2.3,0.91
+S. aureus bacteraemia,Hywel Dda UHB,2020/21,94,69,25,389719.00001,24.12,6.41,38465,2.44,0.65
+S. aureus bacteraemia,Powys THB,2020/21,1,0,1,133030.00002,0.75,0.75,1467,0.68,0.68
+S. aureus bacteraemia,Swansea Bay UHB,2020/21,122,78,44,390948.99999,31.21,11.25,43389,2.81,1.01
+S. aureus bacteraemia,Velindre NHST,2020/21,2,2,0,,,,1857,1.08,0.0
+S. aureus bacteraemia,Wales,2020/21,779,502,277,3169586.00008,24.58,8.74,335394,2.32,0.83
+C. difficile,Aneurin Bevan UHB,2021/22,205,99,106,588302.99996,34.85,18.02,93755,2.19,1.13
+C. difficile,Betsi Cadwaladr UHB,2021/22,215,106,109,687097.99998,31.29,15.86,87067,2.47,1.25
+C. difficile,Cardiff and Vale UHB,2021/22,156,76,80,492046.00002,31.7,16.26,59466,2.62,1.35
+C. difficile,Cwm Taf Morgannwg UHB,2021/22,154,74,80,442122.99997,34.83,18.09,63199,2.44,1.27
+C. difficile,Hywel Dda UHB,2021/22,152,69,83,382518.00004,39.74,21.7,46772,3.25,1.77
+C. difficile,Powys THB,2021/22,12,8,4,133556.99999,8.98,2.99,1402,8.56,2.85
+C. difficile,Swansea Bay UHB,2021/22,196,96,100,379764.99999,51.61,26.33,54644,3.59,1.83
+C. difficile,Velindre NHST,2021/22,5,3,2,,,,2072,2.41,0.97
+C. difficile,Wales,2021/22,1095,531,564,3105409.99995,35.26,18.16,408377,2.68,1.38
+E. coli bacteraemia,Aneurin Bevan UHB,2021/22,347,241,106,588302.99996,58.98,18.02,93755,3.7,1.13
+E. coli bacteraemia,Betsi Cadwaladr UHB,2021/22,436,314,122,687097.99998,63.46,17.76,87067,5.01,1.4
+E. coli bacteraemia,Cardiff and Vale UHB,2021/22,311,216,95,492046.00002,63.21,19.31,59466,5.23,1.6
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2021/22,391,310,81,442122.99997,88.44,18.32,63199,6.19,1.28
+E. coli bacteraemia,Hywel Dda UHB,2021/22,359,294,65,382518.00004,93.85,16.99,46772,7.68,1.39
+E. coli bacteraemia,Powys THB,2021/22,3,0,3,133556.99999,2.25,2.25,1402,2.14,2.14
+E. coli bacteraemia,Swansea Bay UHB,2021/22,288,209,79,379764.99999,75.84,20.8,54644,5.27,1.45
+E. coli bacteraemia,Velindre NHST,2021/22,5,4,1,,,,2072,2.41,0.48
+E. coli bacteraemia,Wales,2021/22,2140,1588,552,3105409.99995,68.91,17.78,408377,5.24,1.35
+Gram negative bacteraemia,Aneurin Bevan UHB,2021/22,471,319,152,588302.99996,80.06,25.84,93755,5.02,1.62
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2021/22,611,436,175,687097.99998,88.92,25.47,87067,7.02,2.01
+Gram negative bacteraemia,Cardiff and Vale UHB,2021/22,466,290,176,492046.00002,94.71,35.77,59466,7.84,2.96
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2021/22,501,381,120,442122.99997,113.32,27.14,63199,7.93,1.9
+Gram negative bacteraemia,Hywel Dda UHB,2021/22,478,370,108,382518.00004,124.96,28.23,46772,10.22,2.31
+Gram negative bacteraemia,Powys THB,2021/22,3,0,3,133556.99999,2.25,2.25,1402,2.14,2.14
+Gram negative bacteraemia,Swansea Bay UHB,2021/22,406,268,138,379764.99999,106.91,36.34,54644,7.43,2.53
+Gram negative bacteraemia,Velindre NHST,2021/22,10,9,1,,,,2072,4.83,0.48
+Gram negative bacteraemia,Wales,2021/22,2946,2073,873,3105409.99995,94.87,28.11,408377,7.21,2.14
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2021/22,93,55,38,588302.99996,15.81,6.46,93755,0.99,0.41
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2021/22,138,97,41,687097.99998,20.08,5.97,87067,1.58,0.47
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2021/22,120,56,64,492046.00002,24.39,13.01,59466,2.02,1.08
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2021/22,81,52,29,442122.99997,18.32,6.56,63199,1.28,0.46
+Klebsiella sp bacteraemia,Hywel Dda UHB,2021/22,88,60,28,382518.00004,23.01,7.32,46772,1.88,0.6
+Klebsiella sp bacteraemia,Powys THB,2021/22,0,0,0,133556.99999,0.0,0.0,1402,0.0,0.0
+Klebsiella sp bacteraemia,Swansea Bay UHB,2021/22,94,50,44,379764.99999,24.75,11.59,54644,1.72,0.81
+Klebsiella sp bacteraemia,Velindre NHST,2021/22,4,4,0,,,,2072,1.93,0.0
+Klebsiella sp bacteraemia,Wales,2021/22,618,374,244,3105409.99995,19.9,7.86,408377,1.51,0.6
+MRSA bacteraemia,Aneurin Bevan UHB,2021/22,4,0,4,588302.99996,0.68,0.68,93755,0.04,0.04
+MRSA bacteraemia,Betsi Cadwaladr UHB,2021/22,10,7,3,687097.99998,1.46,0.44,87067,0.11,0.03
+MRSA bacteraemia,Cardiff and Vale UHB,2021/22,11,7,4,492046.00002,2.24,0.81,59466,0.18,0.07
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2021/22,2,0,2,442122.99997,0.45,0.45,63199,0.03,0.03
+MRSA bacteraemia,Hywel Dda UHB,2021/22,16,9,7,382518.00004,4.18,1.83,46772,0.34,0.15
+MRSA bacteraemia,Powys THB,2021/22,0,0,0,133556.99999,0.0,0.0,1402,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2021/22,10,7,3,379764.99999,2.63,0.79,54644,0.18,0.05
+MRSA bacteraemia,Velindre NHST,2021/22,0,0,0,,,,2072,0.0,0.0
+MRSA bacteraemia,Wales,2021/22,53,30,23,3105409.99995,1.71,0.74,408377,0.13,0.06
+MSSA bacteraemia,Aneurin Bevan UHB,2021/22,130,91,39,588302.99996,22.1,6.63,93755,1.39,0.42
+MSSA bacteraemia,Betsi Cadwaladr UHB,2021/22,169,115,54,687097.99998,24.6,7.86,87067,1.94,0.62
+MSSA bacteraemia,Cardiff and Vale UHB,2021/22,131,73,58,492046.00002,26.62,11.79,59466,2.2,0.98
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2021/22,118,86,32,442122.99997,26.69,7.24,63199,1.87,0.51
+MSSA bacteraemia,Hywel Dda UHB,2021/22,105,75,30,382518.00004,27.45,7.84,46772,2.24,0.64
+MSSA bacteraemia,Powys THB,2021/22,0,0,0,133556.99999,0.0,0.0,1402,0.0,0.0
+MSSA bacteraemia,Swansea Bay UHB,2021/22,129,82,47,379764.99999,33.97,12.38,54644,2.36,0.86
+MSSA bacteraemia,Velindre NHST,2021/22,3,3,0,,,,2072,1.45,0.0
+MSSA bacteraemia,Wales,2021/22,785,525,260,3105409.99995,25.28,8.37,408377,1.92,0.64
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2021/22,31,23,8,588302.99996,5.27,1.36,93755,0.33,0.09
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2021/22,37,25,12,687097.99998,5.38,1.75,87067,0.42,0.14
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2021/22,35,18,17,492046.00002,7.11,3.45,59466,0.59,0.29
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2021/22,29,19,10,442122.99997,6.56,2.26,63199,0.46,0.16
+P. aeruginosa bacteraemia,Hywel Dda UHB,2021/22,31,16,15,382518.00004,8.1,3.92,46772,0.66,0.32
+P. aeruginosa bacteraemia,Powys THB,2021/22,0,0,0,133556.99999,0.0,0.0,1402,0.0,0.0
+P. aeruginosa bacteraemia,Swansea Bay UHB,2021/22,24,9,15,379764.99999,6.32,3.95,54644,0.44,0.27
+P. aeruginosa bacteraemia,Velindre NHST,2021/22,1,1,0,,,,2072,0.48,0.0
+P. aeruginosa bacteraemia,Wales,2021/22,188,111,77,3105409.99995,6.05,2.48,408377,0.46,0.19
+S. aureus bacteraemia,Aneurin Bevan UHB,2021/22,134,91,43,588302.99996,22.78,7.31,93755,1.43,0.46
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2021/22,179,122,57,687097.99998,26.05,8.3,87067,2.06,0.65
+S. aureus bacteraemia,Cardiff and Vale UHB,2021/22,142,80,62,492046.00002,28.86,12.6,59466,2.39,1.04
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2021/22,120,86,34,442122.99997,27.14,7.69,63199,1.9,0.54
+S. aureus bacteraemia,Hywel Dda UHB,2021/22,121,84,37,382518.00004,31.63,9.67,46772,2.59,0.79
+S. aureus bacteraemia,Powys THB,2021/22,0,0,0,133556.99999,0.0,0.0,1402,0.0,0.0
+S. aureus bacteraemia,Swansea Bay UHB,2021/22,139,89,50,379764.99999,36.6,13.17,54644,2.54,0.92
+S. aureus bacteraemia,Velindre NHST,2021/22,3,3,0,,,,2072,1.45,0.0
+S. aureus bacteraemia,Wales,2021/22,838,555,283,3105409.99995,26.99,9.11,408377,2.05,0.69
+C. difficile,Aneurin Bevan UHB,2022/23,192,100,92,591395.99996,32.47,15.56,94851,2.02,0.97
+C. difficile,Betsi Cadwaladr UHB,2022/23,301,148,153,688201.00002,43.74,22.23,93439,3.22,1.64
+C. difficile,Cardiff and Vale UHB,2022/23,143,68,75,505580.99997,28.28,14.83,59169,2.42,1.27
+C. difficile,Cwm Taf Morgannwg UHB,2022/23,114,61,53,444037.00002,25.67,11.94,63199,1.8,0.84
+C. difficile,Hywel Dda UHB,2022/23,204,82,122,385093.99999,52.97,31.68,47234,4.32,2.58
+C. difficile,Powys THB,2022/23,14,8,6,133890.99999,10.46,4.48,1458,9.6,4.12
+C. difficile,Swansea Bay UHB,2022/23,201,103,98,383440.00003,52.42,25.56,56985,3.53,1.72
+C. difficile,Velindre NHST,2022/23,3,1,2,,,,2592,1.16,0.77
+C. difficile,Wales,2022/23,1172,571,601,3131639.99998,37.42,19.19,418927,2.8,1.43
+E. coli bacteraemia,Aneurin Bevan UHB,2022/23,315,227,88,591395.99996,53.26,14.88,94851,3.32,0.93
+E. coli bacteraemia,Betsi Cadwaladr UHB,2022/23,511,372,139,688201.00002,74.25,20.2,93439,5.47,1.49
+E. coli bacteraemia,Cardiff and Vale UHB,2022/23,313,200,113,505580.99997,61.91,22.35,59169,5.29,1.91
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2022/23,382,278,104,444037.00002,86.03,23.42,63199,6.04,1.65
+E. coli bacteraemia,Hywel Dda UHB,2022/23,335,262,73,385093.99999,86.99,18.96,47234,7.09,1.55
+E. coli bacteraemia,Powys THB,2022/23,1,0,1,133890.99999,0.75,0.75,1458,0.69,0.69
+E. coli bacteraemia,Swansea Bay UHB,2022/23,260,179,81,383440.00003,67.81,21.12,56985,4.56,1.42
+E. coli bacteraemia,Velindre NHST,2022/23,11,10,1,,,,2592,4.24,0.39
+E. coli bacteraemia,Wales,2022/23,2128,1528,600,3131639.99998,67.95,19.16,418927,5.08,1.43
+Gram negative bacteraemia,Aneurin Bevan UHB,2022/23,451,319,132,591395.99996,76.26,22.32,94851,4.75,1.39
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2022/23,693,486,207,688201.00002,100.7,30.08,93439,7.42,2.22
+Gram negative bacteraemia,Cardiff and Vale UHB,2022/23,473,275,198,505580.99997,93.56,39.16,59169,7.99,3.35
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2022/23,507,352,155,444037.00002,114.18,34.91,63199,8.02,2.45
+Gram negative bacteraemia,Hywel Dda UHB,2022/23,481,352,129,385093.99999,124.9,33.5,47234,10.18,2.73
+Gram negative bacteraemia,Powys THB,2022/23,3,1,2,133890.99999,2.24,1.49,1458,2.06,1.37
+Gram negative bacteraemia,Swansea Bay UHB,2022/23,411,256,155,383440.00003,107.19,40.42,56985,7.21,2.72
+Gram negative bacteraemia,Velindre NHST,2022/23,12,11,1,,,,2592,4.63,0.39
+Gram negative bacteraemia,Wales,2022/23,3031,2052,979,3131639.99998,96.79,31.26,418927,7.24,2.34
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2022/23,118,82,36,591395.99996,19.95,6.09,94851,1.24,0.38
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2022/23,144,88,56,688201.00002,20.92,8.14,93439,1.54,0.6
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2022/23,135,64,71,505580.99997,26.7,14.04,59169,2.28,1.2
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2022/23,85,52,33,444037.00002,19.14,7.43,63199,1.34,0.52
+Klebsiella sp bacteraemia,Hywel Dda UHB,2022/23,117,74,43,385093.99999,30.38,11.17,47234,2.48,0.91
+Klebsiella sp bacteraemia,Powys THB,2022/23,1,0,1,133890.99999,0.75,0.75,1458,0.69,0.69
+Klebsiella sp bacteraemia,Swansea Bay UHB,2022/23,107,59,48,383440.00003,27.91,12.52,56985,1.88,0.84
+Klebsiella sp bacteraemia,Velindre NHST,2022/23,1,1,0,,,,2592,0.39,0.0
+Klebsiella sp bacteraemia,Wales,2022/23,708,420,288,3131639.99998,22.61,9.2,418927,1.69,0.69
+MRSA bacteraemia,Aneurin Bevan UHB,2022/23,12,5,7,591395.99996,2.03,1.18,94851,0.13,0.07
+MRSA bacteraemia,Betsi Cadwaladr UHB,2022/23,17,12,5,688201.00002,2.47,0.73,93439,0.18,0.05
+MRSA bacteraemia,Cardiff and Vale UHB,2022/23,12,4,8,505580.99997,2.37,1.58,59169,0.2,0.14
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2022/23,4,3,1,444037.00002,0.9,0.23,63199,0.06,0.02
+MRSA bacteraemia,Hywel Dda UHB,2022/23,14,9,5,385093.99999,3.64,1.3,47234,0.3,0.11
+MRSA bacteraemia,Powys THB,2022/23,0,0,0,133890.99999,0.0,0.0,1458,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2022/23,12,5,7,383440.00003,3.13,1.83,56985,0.21,0.12
+MRSA bacteraemia,Velindre NHST,2022/23,0,0,0,,,,2592,0.0,0.0
+MRSA bacteraemia,Wales,2022/23,71,38,33,3131639.99998,2.27,1.05,418927,0.17,0.08
+MSSA bacteraemia,Aneurin Bevan UHB,2022/23,125,76,49,591395.99996,21.14,8.29,94851,1.32,0.52
+MSSA bacteraemia,Betsi Cadwaladr UHB,2022/23,169,107,62,688201.00002,24.56,9.01,93439,1.81,0.66
+MSSA bacteraemia,Cardiff and Vale UHB,2022/23,132,78,54,505580.99997,26.11,10.68,59169,2.23,0.91
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2022/23,143,97,46,444037.00002,32.2,10.36,63199,2.26,0.73
+MSSA bacteraemia,Hywel Dda UHB,2022/23,97,73,24,385093.99999,25.19,6.23,47234,2.05,0.51
+MSSA bacteraemia,Powys THB,2022/23,0,0,0,133890.99999,0.0,0.0,1458,0.0,0.0
+MSSA bacteraemia,Swansea Bay UHB,2022/23,135,75,60,383440.00003,35.21,15.65,56985,2.37,1.05
+MSSA bacteraemia,Velindre NHST,2022/23,2,2,0,,,,2592,0.77,0.0
+MSSA bacteraemia,Wales,2022/23,803,508,295,3131639.99998,25.64,9.42,418927,1.92,0.7
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2022/23,18,10,8,591395.99996,3.04,1.35,94851,0.19,0.08
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2022/23,38,26,12,688201.00002,5.52,1.74,93439,0.41,0.13
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2022/23,25,11,14,505580.99997,4.94,2.77,59169,0.42,0.24
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2022/23,40,22,18,444037.00002,9.01,4.05,63199,0.63,0.28
+P. aeruginosa bacteraemia,Hywel Dda UHB,2022/23,29,16,13,385093.99999,7.53,3.38,47234,0.61,0.28
+P. aeruginosa bacteraemia,Powys THB,2022/23,1,1,0,133890.99999,0.75,0.0,1458,0.69,0.0
+P. aeruginosa bacteraemia,Swansea Bay UHB,2022/23,44,18,26,383440.00003,11.48,6.78,56985,0.77,0.46
+P. aeruginosa bacteraemia,Velindre NHST,2022/23,0,0,0,,,,2592,0.0,0.0
+P. aeruginosa bacteraemia,Wales,2022/23,195,104,91,3131639.99998,6.23,2.91,418927,0.47,0.22
+S. aureus bacteraemia,Aneurin Bevan UHB,2022/23,137,81,56,591395.99996,23.17,9.47,94851,1.44,0.59
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2022/23,186,119,67,688201.00002,27.03,9.74,93439,1.99,0.72
+S. aureus bacteraemia,Cardiff and Vale UHB,2022/23,144,82,62,505580.99997,28.48,12.26,59169,2.43,1.05
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2022/23,147,100,47,444037.00002,33.11,10.58,63199,2.33,0.74
+S. aureus bacteraemia,Hywel Dda UHB,2022/23,111,82,29,385093.99999,28.82,7.53,47234,2.35,0.61
+S. aureus bacteraemia,Powys THB,2022/23,0,0,0,133890.99999,0.0,0.0,1458,0.0,0.0
+S. aureus bacteraemia,Swansea Bay UHB,2022/23,147,80,67,383440.00003,38.34,17.47,56985,2.58,1.18
+S. aureus bacteraemia,Velindre NHST,2022/23,2,2,0,,,,2592,0.77,0.0
+S. aureus bacteraemia,Wales,2022/23,874,546,328,3131639.99998,27.91,10.47,418927,2.09,0.78
+C. difficile,Aneurin Bevan UHB,2023/24,229,116,113,595412.00002,38.46,18.98,103135,2.22,1.1
+C. difficile,Betsi Cadwaladr UHB,2023/24,287,144,143,691991.00002,41.47,20.67,98967,2.9,1.44
+C. difficile,Cardiff and Vale UHB,2023/24,112,44,68,518268.99996,21.61,13.12,68223,1.64,1.0
+C. difficile,Cwm Taf Morgannwg UHB,2023/24,126,80,46,446514.0,28.22,10.3,70473,1.79,0.65
+C. difficile,Hywel Dda UHB,2023/24,182,96,86,388139.00004,46.89,22.16,53466,3.4,1.61
+C. difficile,Powys THB,2023/24,25,20,5,134439.0,18.6,3.72,1281,19.52,3.9
+C. difficile,Swansea Bay UHB,2023/24,250,132,118,389640.00001,64.16,30.28,59628,4.19,1.98
+C. difficile,Velindre NHST,2023/24,7,7,0,,,,2914,2.4,0.0
+C. difficile,Wales,2023/24,1218,639,579,3164404.00005,38.49,18.3,458087,2.66,1.26
+E. coli bacteraemia,Aneurin Bevan UHB,2023/24,349,259,90,595412.00002,58.61,15.12,103135,3.38,0.87
+E. coli bacteraemia,Betsi Cadwaladr UHB,2023/24,549,415,134,691991.00002,79.34,19.36,98967,5.55,1.35
+E. coli bacteraemia,Cardiff and Vale UHB,2023/24,345,239,106,518268.99996,66.57,20.45,68223,5.06,1.55
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2023/24,379,294,85,446514.0,84.88,19.04,70473,5.38,1.21
+E. coli bacteraemia,Hywel Dda UHB,2023/24,387,323,64,388139.00004,99.71,16.49,53466,7.24,1.2
+E. coli bacteraemia,Powys THB,2023/24,2,0,2,134439.0,1.49,1.49,1281,1.56,1.56
+E. coli bacteraemia,Swansea Bay UHB,2023/24,257,180,77,389640.00001,65.96,19.76,59628,4.31,1.29
+E. coli bacteraemia,Velindre NHST,2023/24,6,6,0,,,,2914,2.06,0.0
+E. coli bacteraemia,Wales,2023/24,2274,1716,558,3164404.00005,71.86,17.63,458087,4.96,1.22
+Gram negative bacteraemia,Aneurin Bevan UHB,2023/24,509,355,154,595412.00002,85.49,25.86,103135,4.94,1.49
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2023/24,737,554,183,691991.00002,106.5,26.45,98967,7.45,1.85
+Gram negative bacteraemia,Cardiff and Vale UHB,2023/24,483,311,172,518268.99996,93.19,33.19,68223,7.08,2.52
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2023/24,518,387,131,446514.0,116.01,29.34,70473,7.35,1.86
+Gram negative bacteraemia,Hywel Dda UHB,2023/24,524,424,100,388139.00004,135.0,25.76,53466,9.8,1.87
+Gram negative bacteraemia,Powys THB,2023/24,2,0,2,134439.0,1.49,1.49,1281,1.56,1.56
+Gram negative bacteraemia,Swansea Bay UHB,2023/24,372,256,116,389640.00001,95.47,29.77,59628,6.24,1.95
+Gram negative bacteraemia,Velindre NHST,2023/24,12,12,0,,,,2914,4.12,0.0
+Gram negative bacteraemia,Wales,2023/24,3157,2299,858,3164404.00005,99.77,27.11,458087,6.89,1.87
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2023/24,135,81,54,595412.00002,22.67,9.07,103135,1.31,0.52
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2023/24,156,118,38,691991.00002,22.54,5.49,98967,1.58,0.38
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2023/24,120,61,59,518268.99996,23.15,11.38,68223,1.76,0.86
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2023/24,118,80,38,446514.0,26.43,8.51,70473,1.67,0.54
+Klebsiella sp bacteraemia,Hywel Dda UHB,2023/24,108,77,31,388139.00004,27.83,7.99,53466,2.02,0.58
+Klebsiella sp bacteraemia,Powys THB,2023/24,0,0,0,134439.0,0.0,0.0,1281,0.0,0.0
+Klebsiella sp bacteraemia,Swansea Bay UHB,2023/24,94,65,29,389640.00001,24.12,7.44,59628,1.58,0.49
+Klebsiella sp bacteraemia,Velindre NHST,2023/24,6,6,0,,,,2914,2.06,0.0
+Klebsiella sp bacteraemia,Wales,2023/24,737,488,249,3164404.00005,23.29,7.87,458087,1.61,0.54
+MRSA bacteraemia,Aneurin Bevan UHB,2023/24,9,7,2,595412.00002,1.51,0.34,103135,0.09,0.02
+MRSA bacteraemia,Betsi Cadwaladr UHB,2023/24,8,5,3,691991.00002,1.16,0.43,98967,0.08,0.03
+MRSA bacteraemia,Cardiff and Vale UHB,2023/24,13,8,5,518268.99996,2.51,0.96,68223,0.19,0.07
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2023/24,9,7,2,446514.0,2.02,0.45,70473,0.13,0.03
+MRSA bacteraemia,Hywel Dda UHB,2023/24,10,4,6,388139.00004,2.58,1.55,53466,0.19,0.11
+MRSA bacteraemia,Powys THB,2023/24,0,0,0,134439.0,0.0,0.0,1281,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2023/24,7,2,5,389640.00001,1.8,1.28,59628,0.12,0.08
+MRSA bacteraemia,Velindre NHST,2023/24,1,1,0,,,,2914,0.34,0.0
+MRSA bacteraemia,Wales,2023/24,57,34,23,3164404.00005,1.8,0.73,458087,0.12,0.05
+MSSA bacteraemia,Aneurin Bevan UHB,2023/24,120,79,41,595412.00002,20.15,6.89,103135,1.16,0.4
+MSSA bacteraemia,Betsi Cadwaladr UHB,2023/24,172,133,39,691991.00002,24.86,5.64,98967,1.74,0.39
+MSSA bacteraemia,Cardiff and Vale UHB,2023/24,146,94,52,518268.99996,28.17,10.03,68223,2.14,0.76
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2023/24,130,99,31,446514.0,29.11,6.94,70473,1.84,0.44
+MSSA bacteraemia,Hywel Dda UHB,2023/24,100,70,30,388139.00004,25.76,7.73,53466,1.87,0.56
+MSSA bacteraemia,Powys THB,2023/24,1,0,1,134439.0,0.74,0.74,1281,0.78,0.78
+MSSA bacteraemia,Swansea Bay UHB,2023/24,135,93,42,389640.00001,34.65,10.78,59628,2.26,0.7
+MSSA bacteraemia,Velindre NHST,2023/24,0,0,0,,,,2914,0.0,0.0
+MSSA bacteraemia,Wales,2023/24,804,568,236,3164404.00005,25.41,7.46,458087,1.76,0.52
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2023/24,25,15,10,595412.00002,4.2,1.68,103135,0.24,0.1
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2023/24,32,21,11,691991.00002,4.62,1.59,98967,0.32,0.11
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2023/24,18,11,7,518268.99996,3.47,1.35,68223,0.26,0.1
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2023/24,21,13,8,446514.0,4.7,1.79,70473,0.3,0.11
+P. aeruginosa bacteraemia,Hywel Dda UHB,2023/24,29,24,5,388139.00004,7.47,1.29,53466,0.54,0.09
+P. aeruginosa bacteraemia,Powys THB,2023/24,0,0,0,134439.0,0.0,0.0,1281,0.0,0.0
+P. aeruginosa bacteraemia,Swansea Bay UHB,2023/24,21,11,10,389640.00001,5.39,2.57,59628,0.35,0.17
+P. aeruginosa bacteraemia,Velindre NHST,2023/24,0,0,0,,,,2914,0.0,0.0
+P. aeruginosa bacteraemia,Wales,2023/24,146,95,51,3164404.00005,4.61,1.61,458087,0.32,0.11
+S. aureus bacteraemia,Aneurin Bevan UHB,2023/24,129,86,43,595412.00002,21.67,7.22,103135,1.25,0.42
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2023/24,180,138,42,691991.00002,26.01,6.07,98967,1.82,0.42
+S. aureus bacteraemia,Cardiff and Vale UHB,2023/24,159,102,57,518268.99996,30.68,11.0,68223,2.33,0.84
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2023/24,139,106,33,446514.0,31.13,7.39,70473,1.97,0.47
+S. aureus bacteraemia,Hywel Dda UHB,2023/24,110,74,36,388139.00004,28.34,9.28,53466,2.06,0.67
+S. aureus bacteraemia,Powys THB,2023/24,1,0,1,134439.0,0.74,0.74,1281,0.78,0.78
+S. aureus bacteraemia,Swansea Bay UHB,2023/24,142,95,47,389640.00001,36.44,12.06,59628,2.38,0.79
+S. aureus bacteraemia,Velindre NHST,2023/24,1,1,0,,,,2914,0.34,0.0
+S. aureus bacteraemia,Wales,2023/24,861,602,259,3164404.00005,27.21,8.18,458087,1.88,0.57
+C. difficile,Aneurin Bevan UHB,2024/25,275,136,139,595412.00003,46.19,23.35,104559,2.63,1.33
+C. difficile,Betsi Cadwaladr UHB,2024/25,355,188,167,691990.99998,51.3,24.13,98096,3.62,1.7
+C. difficile,Cardiff and Vale UHB,2024/25,210,98,112,518268.99996,40.52,21.61,67682,3.1,1.65
+C. difficile,Cwm Taf Morgannwg UHB,2024/25,158,92,66,446513.99999,35.39,14.78,64992,2.43,1.02
+C. difficile,Hywel Dda UHB,2024/25,184,106,78,388138.99998,47.41,20.1,56745,3.24,1.37
+C. difficile,Powys THB,2024/25,22,14,8,134439.00001,16.36,5.95,1347,16.33,5.94
+C. difficile,Swansea Bay UHB,2024/25,275,137,138,389639.99999,70.58,35.42,62961,4.37,2.19
+C. difficile,Velindre NHST,2024/25,5,1,4,,,,3204,1.56,1.25
+C. difficile,Wales,2024/25,1484,772,712,3164403.99994,46.9,22.5,459586,3.23,1.55
+E. coli bacteraemia,Aneurin Bevan UHB,2024/25,376,278,98,595412.00003,63.15,16.46,104559,3.6,0.94
+E. coli bacteraemia,Betsi Cadwaladr UHB,2024/25,539,411,128,691990.99998,77.89,18.5,98096,5.49,1.3
+E. coli bacteraemia,Cardiff and Vale UHB,2024/25,286,203,83,518268.99996,55.18,16.01,67682,4.23,1.23
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2024/25,364,287,77,446513.99999,81.52,17.24,64992,5.6,1.18
+E. coli bacteraemia,Hywel Dda UHB,2024/25,380,320,60,388138.99998,97.9,15.46,56745,6.7,1.06
+E. coli bacteraemia,Powys THB,2024/25,2,0,2,134439.00001,1.49,1.49,1347,1.48,1.48
+E. coli bacteraemia,Swansea Bay UHB,2024/25,224,157,67,389639.99999,57.49,17.2,62961,3.56,1.06
+E. coli bacteraemia,Velindre NHST,2024/25,11,10,1,,,,3204,3.43,0.31
+E. coli bacteraemia,Wales,2024/25,2182,1666,516,3164403.99994,68.95,16.31,459586,4.75,1.12
+Gram negative bacteraemia,Aneurin Bevan UHB,2024/25,533,378,155,595412.00003,89.52,26.03,104559,5.1,1.48
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2024/25,700,529,171,691990.99998,101.16,24.71,98096,7.14,1.74
+Gram negative bacteraemia,Cardiff and Vale UHB,2024/25,447,290,157,518268.99996,86.25,30.29,67682,6.6,2.32
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2024/25,481,370,111,446513.99999,107.72,24.86,64992,7.4,1.71
+Gram negative bacteraemia,Hywel Dda UHB,2024/25,509,420,89,388138.99998,131.14,22.93,56745,8.97,1.57
+Gram negative bacteraemia,Powys THB,2024/25,2,0,2,134439.00001,1.49,1.49,1347,1.48,1.48
+Gram negative bacteraemia,Swansea Bay UHB,2024/25,363,232,131,389639.99999,93.16,33.62,62961,5.77,2.08
+Gram negative bacteraemia,Velindre NHST,2024/25,19,17,2,,,,3204,5.93,0.62
+Gram negative bacteraemia,Wales,2024/25,3054,2236,818,3164403.99994,96.51,25.85,459586,6.65,1.78
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2024/25,115,76,39,595412.00003,19.31,6.55,104559,1.1,0.37
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2024/25,136,99,37,691990.99998,19.65,5.35,98096,1.39,0.38
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2024/25,120,73,47,518268.99996,23.15,9.07,67682,1.77,0.69
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2024/25,103,75,28,446513.99999,23.07,6.27,64992,1.58,0.43
+Klebsiella sp bacteraemia,Hywel Dda UHB,2024/25,105,85,20,388138.99998,27.05,5.15,56745,1.85,0.35
+Klebsiella sp bacteraemia,Powys THB,2024/25,0,0,0,134439.00001,0.0,0.0,1347,0.0,0.0
+Klebsiella sp bacteraemia,Swansea Bay UHB,2024/25,121,65,56,389639.99999,31.05,14.37,62961,1.92,0.89
+Klebsiella sp bacteraemia,Velindre NHST,2024/25,8,7,1,,,,3204,2.5,0.31
+Klebsiella sp bacteraemia,Wales,2024/25,708,480,228,3164403.99994,22.37,7.21,459586,1.54,0.5
+MRSA bacteraemia,Aneurin Bevan UHB,2024/25,19,9,10,595412.00003,3.19,1.68,104559,0.18,0.1
+MRSA bacteraemia,Betsi Cadwaladr UHB,2024/25,11,8,3,691990.99998,1.59,0.43,98096,0.11,0.03
+MRSA bacteraemia,Cardiff and Vale UHB,2024/25,15,5,10,518268.99996,2.89,1.93,67682,0.22,0.15
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2024/25,10,8,2,446513.99999,2.24,0.45,64992,0.15,0.03
+MRSA bacteraemia,Hywel Dda UHB,2024/25,11,8,3,388138.99998,2.83,0.77,56745,0.19,0.05
+MRSA bacteraemia,Powys THB,2024/25,0,0,0,134439.00001,0.0,0.0,1347,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2024/25,5,2,3,389639.99999,1.28,0.77,62961,0.08,0.05
+MRSA bacteraemia,Velindre NHST,2024/25,1,1,0,,,,3204,0.31,0.0
+MRSA bacteraemia,Wales,2024/25,72,41,31,3164403.99994,2.28,0.98,459586,0.16,0.07
+MSSA bacteraemia,Aneurin Bevan UHB,2024/25,170,109,61,595412.00003,28.55,10.25,104559,1.63,0.58
+MSSA bacteraemia,Betsi Cadwaladr UHB,2024/25,169,127,42,691990.99998,24.42,6.07,98096,1.72,0.43
+MSSA bacteraemia,Cardiff and Vale UHB,2024/25,169,109,60,518268.99996,32.61,11.58,67682,2.5,0.89
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2024/25,121,87,34,446513.99999,27.1,7.61,64992,1.86,0.52
+MSSA bacteraemia,Hywel Dda UHB,2024/25,122,85,37,388138.99998,31.43,9.53,56745,2.15,0.65
+MSSA bacteraemia,Powys THB,2024/25,2,0,2,134439.00001,1.49,1.49,1347,1.48,1.48
+MSSA bacteraemia,Swansea Bay UHB,2024/25,126,77,49,389639.99999,32.34,12.58,62961,2.0,0.78
+MSSA bacteraemia,Velindre NHST,2024/25,3,3,0,,,,3204,0.94,0.0
+MSSA bacteraemia,Wales,2024/25,882,597,285,3164403.99994,27.87,9.01,459586,1.92,0.62
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2024/25,42,24,18,595412.00003,7.05,3.02,104559,0.4,0.17
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2024/25,25,19,6,691990.99998,3.61,0.87,98096,0.25,0.06
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2024/25,41,14,27,518268.99996,7.91,5.21,67682,0.61,0.4
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2024/25,14,8,6,446513.99999,3.14,1.34,64992,0.22,0.09
+P. aeruginosa bacteraemia,Hywel Dda UHB,2024/25,24,15,9,388138.99998,6.18,2.32,56745,0.42,0.16
+P. aeruginosa bacteraemia,Powys THB,2024/25,0,0,0,134439.00001,0.0,0.0,1347,0.0,0.0
+P. aeruginosa bacteraemia,Swansea Bay UHB,2024/25,18,10,8,389639.99999,4.62,2.05,62961,0.29,0.13
+P. aeruginosa bacteraemia,Velindre NHST,2024/25,0,0,0,,,,3204,0.0,0.0
+P. aeruginosa bacteraemia,Wales,2024/25,164,90,74,3164403.99994,5.18,2.34,459586,0.36,0.16
+S. aureus bacteraemia,Aneurin Bevan UHB,2024/25,189,118,71,595412.00003,31.74,11.92,104559,1.81,0.68
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2024/25,180,135,45,691990.99998,26.01,6.5,98096,1.83,0.46
+S. aureus bacteraemia,Cardiff and Vale UHB,2024/25,184,114,70,518268.99996,35.5,13.51,67682,2.72,1.03
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2024/25,131,95,36,446513.99999,29.34,8.06,64992,2.02,0.55
+S. aureus bacteraemia,Hywel Dda UHB,2024/25,133,93,40,388138.99998,34.27,10.31,56745,2.34,0.7
+S. aureus bacteraemia,Powys THB,2024/25,2,0,2,134439.00001,1.49,1.49,1347,1.48,1.48
+S. aureus bacteraemia,Swansea Bay UHB,2024/25,131,79,52,389639.99999,33.62,13.35,62961,2.08,0.83
+S. aureus bacteraemia,Velindre NHST,2024/25,4,4,0,,,,3204,1.25,0.0
+S. aureus bacteraemia,Wales,2024/25,954,638,316,3164403.99994,30.15,9.99,459586,2.08,0.69
+C. difficile,Aneurin Bevan UHB,2025/26,126,81,45,298521.63288,42.21,15.07,55936,2.25,0.8
+C. difficile,Betsi Cadwaladr UHB,2025/26,161,78,83,346943.43288,46.41,23.92,50909,3.16,1.63
+C. difficile,Cardiff and Vale UHB,2025/26,106,71,35,259844.45751,40.79,13.47,33152,3.2,1.06
+C. difficile,Cwm Taf Morgannwg UHB,2025/26,92,56,36,223868.66301,41.1,16.08,31436,2.93,1.15
+C. difficile,Hywel Dda UHB,2025/26,80,38,42,194601.19728,41.11,21.58,29091,2.75,1.44
+C. difficile,Powys THB,2025/26,13,11,2,67403.66301,19.29,2.97,744,17.47,2.69
+C. difficile,Swansea Bay UHB,2025/26,121,54,67,195353.75343,61.94,34.3,32799,3.69,2.04
+C. difficile,Velindre NHST,2025/26,1,1,0,,,,1653,0.6,0.0
+C. difficile,Wales,2025/26,700,390,310,1586536.8,44.12,19.54,235720,2.97,1.32
+E. coli bacteraemia,Aneurin Bevan UHB,2025/26,179,129,50,298521.63288,59.96,16.75,55936,3.2,0.89
+E. coli bacteraemia,Betsi Cadwaladr UHB,2025/26,246,186,60,346943.43288,70.9,17.29,50909,4.83,1.18
+E. coli bacteraemia,Cardiff and Vale UHB,2025/26,139,108,31,259844.45751,53.49,11.93,33152,4.19,0.94
+E. coli bacteraemia,Cwm Taf Morgannwg UHB,2025/26,192,160,32,223868.66301,85.76,14.29,31436,6.11,1.02
+E. coli bacteraemia,Hywel Dda UHB,2025/26,187,144,43,194601.19728,96.09,22.1,29091,6.43,1.48
+E. coli bacteraemia,Powys THB,2025/26,1,0,1,67403.66301,1.48,1.48,744,1.34,1.34
+E. coli bacteraemia,Swansea Bay UHB,2025/26,138,99,39,195353.75343,70.64,19.96,32799,4.21,1.19
+E. coli bacteraemia,Velindre NHST,2025/26,8,5,3,,,,1653,4.84,1.81
+E. coli bacteraemia,Wales,2025/26,1090,831,259,1586536.8,68.7,16.32,235720,4.62,1.1
+Gram negative bacteraemia,Aneurin Bevan UHB,2025/26,265,191,74,298521.63288,88.77,24.79,55936,4.74,1.32
+Gram negative bacteraemia,Betsi Cadwaladr UHB,2025/26,330,243,87,346943.43288,95.12,25.08,50909,6.48,1.71
+Gram negative bacteraemia,Cardiff and Vale UHB,2025/26,211,143,68,259844.45751,81.2,26.17,33152,6.36,2.05
+Gram negative bacteraemia,Cwm Taf Morgannwg UHB,2025/26,270,213,57,223868.66301,120.61,25.46,31436,8.59,1.81
+Gram negative bacteraemia,Hywel Dda UHB,2025/26,261,202,59,194601.19728,134.12,30.32,29091,8.97,2.03
+Gram negative bacteraemia,Powys THB,2025/26,1,0,1,67403.66301,1.48,1.48,744,1.34,1.34
+Gram negative bacteraemia,Swansea Bay UHB,2025/26,216,135,81,195353.75343,110.57,41.46,32799,6.59,2.47
+Gram negative bacteraemia,Velindre NHST,2025/26,8,5,3,,,,1653,4.84,1.81
+Gram negative bacteraemia,Wales,2025/26,1562,1132,430,1586536.8,98.45,27.1,235720,6.63,1.82
+Klebsiella sp bacteraemia,Aneurin Bevan UHB,2025/26,64,47,17,298521.63288,21.44,5.69,55936,1.14,0.3
+Klebsiella sp bacteraemia,Betsi Cadwaladr UHB,2025/26,69,45,24,346943.43288,19.89,6.92,50909,1.36,0.47
+Klebsiella sp bacteraemia,Cardiff and Vale UHB,2025/26,62,32,30,259844.45751,23.86,11.55,33152,1.87,0.9
+Klebsiella sp bacteraemia,Cwm Taf Morgannwg UHB,2025/26,73,50,23,223868.66301,32.61,10.27,31436,2.32,0.73
+Klebsiella sp bacteraemia,Hywel Dda UHB,2025/26,64,49,15,194601.19728,32.89,7.71,29091,2.2,0.52
+Klebsiella sp bacteraemia,Powys THB,2025/26,0,0,0,67403.66301,0.0,0.0,744,0.0,0.0
+Klebsiella sp bacteraemia,Swansea Bay UHB,2025/26,63,30,33,195353.75343,32.25,16.89,32799,1.92,1.01
+Klebsiella sp bacteraemia,Velindre NHST,2025/26,0,0,0,,,,1653,0.0,0.0
+Klebsiella sp bacteraemia,Wales,2025/26,395,253,142,1586536.8,24.9,8.95,235720,1.68,0.6
+MRSA bacteraemia,Aneurin Bevan UHB,2025/26,3,1,2,298521.63288,1.0,0.67,55936,0.05,0.04
+MRSA bacteraemia,Betsi Cadwaladr UHB,2025/26,5,2,3,346943.43288,1.44,0.86,50909,0.1,0.06
+MRSA bacteraemia,Cardiff and Vale UHB,2025/26,9,4,5,259844.45751,3.46,1.92,33152,0.27,0.15
+MRSA bacteraemia,Cwm Taf Morgannwg UHB,2025/26,2,1,1,223868.66301,0.89,0.45,31436,0.06,0.03
+MRSA bacteraemia,Hywel Dda UHB,2025/26,8,5,3,194601.19728,4.11,1.54,29091,0.27,0.1
+MRSA bacteraemia,Powys THB,2025/26,0,0,0,67403.66301,0.0,0.0,744,0.0,0.0
+MRSA bacteraemia,Swansea Bay UHB,2025/26,5,3,2,195353.75343,2.56,1.02,32799,0.15,0.06
+MRSA bacteraemia,Velindre NHST,2025/26,0,0,0,,,,1653,0.0,0.0
+MRSA bacteraemia,Wales,2025/26,32,16,16,1586536.8,2.02,1.01,235720,0.14,0.07
+MSSA bacteraemia,Aneurin Bevan UHB,2025/26,71,45,26,298521.63288,23.78,8.71,55936,1.27,0.46
+MSSA bacteraemia,Betsi Cadwaladr UHB,2025/26,87,62,25,346943.43288,25.08,7.21,50909,1.71,0.49
+MSSA bacteraemia,Cardiff and Vale UHB,2025/26,70,45,25,259844.45751,26.94,9.62,33152,2.11,0.75
+MSSA bacteraemia,Cwm Taf Morgannwg UHB,2025/26,56,40,16,223868.66301,25.01,7.15,31436,1.78,0.51
+MSSA bacteraemia,Hywel Dda UHB,2025/26,54,36,18,194601.19728,27.75,9.25,29091,1.86,0.62
+MSSA bacteraemia,Powys THB,2025/26,1,1,0,67403.66301,1.48,0.0,744,1.34,0.0
+MSSA bacteraemia,Swansea Bay UHB,2025/26,58,31,27,195353.75343,29.69,13.82,32799,1.77,0.82
+MSSA bacteraemia,Velindre NHST,2025/26,3,3,0,,,,1653,1.81,0.0
+MSSA bacteraemia,Wales,2025/26,400,263,137,1586536.8,25.21,8.64,235720,1.7,0.58
+P. aeruginosa bacteraemia,Aneurin Bevan UHB,2025/26,22,15,7,298521.63288,7.37,2.34,55936,0.39,0.13
+P. aeruginosa bacteraemia,Betsi Cadwaladr UHB,2025/26,15,12,3,346943.43288,4.32,0.86,50909,0.29,0.06
+P. aeruginosa bacteraemia,Cardiff and Vale UHB,2025/26,10,3,7,259844.45751,3.85,2.69,33152,0.3,0.21
+P. aeruginosa bacteraemia,Cwm Taf Morgannwg UHB,2025/26,5,3,2,223868.66301,2.23,0.89,31436,0.16,0.06
+P. aeruginosa bacteraemia,Hywel Dda UHB,2025/26,10,9,1,194601.19728,5.14,0.51,29091,0.34,0.03
+P. aeruginosa bacteraemia,Powys THB,2025/26,0,0,0,67403.66301,0.0,0.0,744,0.0,0.0
+P. aeruginosa bacteraemia,Swansea Bay UHB,2025/26,15,6,9,195353.75343,7.68,4.61,32799,0.46,0.27
+P. aeruginosa bacteraemia,Velindre NHST,2025/26,0,0,0,,,,1653,0.0,0.0
+P. aeruginosa bacteraemia,Wales,2025/26,77,48,29,1586536.8,4.85,1.83,235720,0.33,0.12
+S. aureus bacteraemia,Aneurin Bevan UHB,2025/26,74,46,28,298521.63288,24.79,9.38,55936,1.32,0.5
+S. aureus bacteraemia,Betsi Cadwaladr UHB,2025/26,92,64,28,346943.43288,26.52,8.07,50909,1.81,0.55
+S. aureus bacteraemia,Cardiff and Vale UHB,2025/26,79,49,30,259844.45751,30.4,11.55,33152,2.38,0.9
+S. aureus bacteraemia,Cwm Taf Morgannwg UHB,2025/26,58,41,17,223868.66301,25.91,7.59,31436,1.85,0.54
+S. aureus bacteraemia,Hywel Dda UHB,2025/26,62,41,21,194601.19728,31.86,10.79,29091,2.13,0.72
+S. aureus bacteraemia,Powys THB,2025/26,1,1,0,67403.66301,1.48,0.0,744,1.34,0.0
+S. aureus bacteraemia,Swansea Bay UHB,2025/26,63,34,29,195353.75343,32.25,14.84,32799,1.92,0.88
+S. aureus bacteraemia,Velindre NHST,2025/26,3,3,0,,,,1653,1.81,0.0
+S. aureus bacteraemia,Wales,2025/26,432,279,153,1586536.8,27.23,9.64,235720,1.83,0.65
