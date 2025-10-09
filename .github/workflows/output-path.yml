@@ -16,7 +16,7 @@ jobs:
           echo "runner_temp_path=$RUNNER_TEMP" >> $GITHUB_OUTPUT
 
       - name: Output the Workspace Directory (GITHUB_WORKSPACE)
-        run: echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
+        run: echo "GITHUB_WORKSPACE is $GITHUB_WORKSPACE"
       
       - name: Reference the Temporary Path as an Output
         run: |
