@@ -32,8 +32,8 @@ jobs:
       uses: actions/upload-artifact@v4
       if: always() # This is crucial - it runs even if the previous step fails
       with:
-        name: final-screenshot
-        path: final_page_state.png
+        name: debug-screenshot
+        path: debug_screenshot.png
 
     - name: Verify download
       run: |
