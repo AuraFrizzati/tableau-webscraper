@@ -41,8 +41,13 @@ try:
     print(driver.page_source)
     print("------------------------")
 
-
-
 except Exception as e:
     print(f"An error occurred: {e}")
+
+# Check if we got an error page instead of the real site
+if "This site can't be reached" in driver.page_source or "ERR_" in driver.page_source:
+    print("ERROR: Cannot reach the website from GitHub Actions runner")
+    print("This is likely due to network restrictions or geographic blocking")
+else:
+    print("Website loaded successfully")
 
