@@ -59,23 +59,14 @@ try:
 except TimeoutException:
     print("Cookie banner not found or not needed - continuing...")
 
-
-
 print("Finding the Excel download link...")
 wait = WebDriverWait(driver, 20)
 try:
-    # iframe_element = wait.until(EC.presence_of_element_located((By.TAG_NAME, "iframe")))
-
-    ## Select the iframe containing the button Image 'Download data'
-    iframe_element = wait.until(
-        EC.presence_of_element_located((
-            By.XPATH, 
-            '//*[@id="embedded-viz-wrapper"]/iframe'))
-            )
-    print("iframe found")
-
-    ## Switch Selenium's context to the iframe
+    # --- 2. Switch to the iFrame ---
+    print("Finding and switching to the iframe...")
+    iframe_element = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="embedded-viz-wrapper"]/iframe')))
     driver.switch_to.frame(iframe_element)
+    print("Switched to iframe.")
 
     ## Try to find the element inside the iframe
     image_button = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="tabZoneId861"]/div/div/div/a/img')))
@@ -84,8 +75,23 @@ try:
     time.sleep(30)
     print("Excel file downloaded!")
 
+except TimeoutException as e:
+    print(f"An element was not found in time: {e}")
+except Exception as e:
+    print(f"An unexpected error occurred: {e}")
 
-except TimeoutException:
-    print("Iframe or button image not found.")
 
-
+finally:
+    # --- 6. Verify the download ---
+    print(f"Checking for downloaded files in: {download_path}")
+    try:
+        files_in_data_folder = os.listdir(download_path)
+        if files_in_data_folder:
+            print(f"SUCCESS: File(s) found: {files_in_data_folder}")
+        else:
+            print("FAILURE: No files were downloaded to the 'data' directory.")
+    except Exception as e:
+        print(f"Could not check directory contents: {e}")
+    
+    driver.quit()
+    print("Browser closed.")

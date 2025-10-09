@@ -28,6 +28,11 @@ jobs:
     - name: Run Selenium script
       run: python main2.py
 
+    - name: Verify download
+      run: |
+        echo "Checking contents of the 'data' directory..."
+        ls -l data/
+
     - name: Commit and push if files changed
       run: |
         git config --global user.name 'github-actions[bot]'
