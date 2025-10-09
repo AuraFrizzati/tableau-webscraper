@@ -11,6 +11,13 @@ import os
 # Create an instance of ChromeOptions
 chrome_options = Options()
 
+# --- Configure download path ---
+# Define the subfolder and create it if it doesn't exist
+download_path = os.path.join(os.getcwd(), "data")
+os.makedirs(download_path, exist_ok=True)
+prefs = {"download.default_directory": download_path}
+chrome_options.add_experimental_option("prefs", prefs)
+
 # Add the headless argument
 # This tells Chrome to run without a user interface
 chrome_options.add_argument("--headless")

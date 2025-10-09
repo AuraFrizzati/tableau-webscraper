@@ -27,3 +27,16 @@ jobs:
 
     - name: Run Selenium script
       run: python main2.py
+
+    - name: Commit and push if files changed
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data/
+        # Check if there are any changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "CI: Update downloaded Tableau data"
+          git push
+        fi
