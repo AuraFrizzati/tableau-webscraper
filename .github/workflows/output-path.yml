@@ -1,6 +1,8 @@
 name: Output Runner Paths
 
-on: [push, workflow_dispatch]
+on:
+  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   show_runner_paths:
