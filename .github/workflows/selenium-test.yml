@@ -35,10 +35,10 @@ jobs:
         name: debug-screenshot
         path: debug_screenshot.png
 
-    - name: Verify download
-      run: |
-        echo "Checking contents of the 'data' directory..."
-        ls -l data/
+    # - name: Verify download
+    #   run: |
+    #     echo "Checking contents of the 'data' directory..."
+    #     ls -l data/
 
     - name: Commit and push if files changed
       run: |
