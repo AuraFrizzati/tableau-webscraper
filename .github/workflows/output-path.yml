@@ -1,0 +1,22 @@
+name: Output Runner Paths
+
+on: [push, workflow_dispatch]
+
+jobs:
+  show_runner_paths:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Output the Temporary Directory (RUNNER_TEMP)
+        id: temp_dir
+        run: |
+          echo "RUNNER_TEMP: $RUNNER_TEMP"
+          # Set the path as a step output for easy reference in subsequent steps/jobs
+          echo "runner_temp_path=$RUNNER_TEMP" >> $GITHUB_OUTPUT
+
+      - name: Output the Workspace Directory (GITHUB_WORKSPACE)
+        run: echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
+      
+      - name: Reference the Temporary Path as an Output
+        run: |
+          echo "The temporary path from the previous step is: ${{ steps.temp_dir.outputs.runner_temp_path }}"
+          # You can now use this path for a cleanup or another action
