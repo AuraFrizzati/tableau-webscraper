@@ -81,7 +81,7 @@ try:
     image_button = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="tabZoneId861"]/div/div/div/a/img')))
     print("image button found!")
     image_button.click()
-    time.sleep(2)
+    time.sleep(30)
     print("Excel file downloaded!")
 
 
