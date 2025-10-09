@@ -15,7 +15,8 @@ chrome_options.add_argument("--window-size=1920,1080") # Optional: Specify windo
 driver = webdriver.Chrome(options=chrome_options)
 
 # --- Open the Website ---
-url = "https://automationintesting.com/selenium/testpage/"
+# url = "https://automationintesting.com/selenium/testpage/"
+url = "https://public.tableau.com/app/profile/victoria6405/viz/WalesHCAISurveillanceMonthlyDashboard/HBMonthlyDashboard"
 
 try:
     print(f"Opening {url} in headless mode...")
@@ -25,12 +26,10 @@ try:
     print(f"Page title: '{driver.title}'")
     print("Successfully opened the page.")
 
-    # Find all h2 elements and print their text
-    print("\n--- H2 Tags Found ---")
-    h2_tags = driver.find_elements(By.TAG_NAME, "h2")
-    for tag in h2_tags:
-        print(tag.text)
-    print("--------------------")
+        # Print all HTML code from the page
+    print("\n--- HTML Source Code ---")
+    print(driver.page_source)
+    print("------------------------")
 
 
 except Exception as e:
