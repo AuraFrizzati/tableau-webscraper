@@ -18,6 +18,15 @@ chrome_options = Options()
 # prefs = {"download.default_directory": download_path}
 # chrome_options.add_experimental_option("prefs", prefs)
 
+download_path = os.environ.get('GITHUB_WORKSPACE') 
+print(download_path)
+chrome_options = webdriver.ChromeOptions()
+prefs = {
+    "download.default_directory": download_path,
+    "download.prompt_for_download": False
+}
+chrome_options.add_experimental_option("prefs", prefs)
+
 # Add the headless argument
 # This tells Chrome to run without a user interface
 chrome_options.add_argument("--headless")
@@ -88,10 +97,12 @@ except Exception as e:
 
 finally:
     # --- 6. Verify the download ---
-    default_runner_path = "/home/runner/Downloads"
-    print(f"Checking for downloaded files in: {default_runner_path}")
+    #default_runner_path = "/home/runner/Downloads"
+    #print(f"Checking for downloaded files in: {default_runner_path}")
+    print(f"Checking for downloaded files in: {download_path}")
+    
     try:
-        files_in_data_folder = os.listdir(default_runner_path)
+        files_in_data_folder = os.listdir(download_path)
         if files_in_data_folder:
             print(f"SUCCESS: File(s) found: {files_in_data_folder}")
         else:
