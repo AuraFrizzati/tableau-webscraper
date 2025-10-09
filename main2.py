@@ -71,12 +71,13 @@ try:
     ## Try to find the element inside the iframe
     image_button = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="tabZoneId861"]/div/div/div/a/img')))
     print("image button found!")
-    image_button.click()
-    time.sleep(30)
-    print("Excel file downloaded!")
-    
     driver.save_screenshot("debug_screenshot.png")
     print("Screenshot 'debug_screenshot.png' saved.")
+    image_button.click()
+    time.sleep(15)
+    print("Excel file downloaded!")
+    
+
 
 except TimeoutException as e:
     print(f"An element was not found in time: {e}")
