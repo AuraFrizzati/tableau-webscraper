@@ -26,7 +26,7 @@ driver = webdriver.Chrome(options=chrome_options)
 
 # --- Open the Website ---
 # url = "https://automationintesting.com/selenium/testpage/"
-url = "https://public.tableau.com/app/profile/victoria6405/viz/WalesHCAISurveillanceMonthlyDashboard/HBMonthlyDashboard"
+# url = "https://public.tableau.com/app/profile/victoria6405/viz/WalesHCAISurveillanceMonthlyDashboard/HBMonthlyDashboard"
 url = "https://www2.nphs.wales.nhs.uk/WHAIPDocs.nsf"
 try:
     print(f"Opening {url} in headless mode...")
