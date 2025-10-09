@@ -13,10 +13,10 @@ chrome_options = Options()
 
 # --- Configure download path ---
 # Define the subfolder and create it if it doesn't exist
-download_path = os.path.join(os.getcwd(), "data")
-os.makedirs(download_path, exist_ok=True)
-prefs = {"download.default_directory": download_path}
-chrome_options.add_experimental_option("prefs", prefs)
+# download_path = os.path.join(os.getcwd(), "data")
+# os.makedirs(download_path, exist_ok=True)
+# prefs = {"download.default_directory": download_path}
+# chrome_options.add_experimental_option("prefs", prefs)
 
 # Add the headless argument
 # This tells Chrome to run without a user interface
@@ -85,11 +85,13 @@ except Exception as e:
     print(f"An unexpected error occurred: {e}")
 
 
+
 finally:
     # --- 6. Verify the download ---
-    print(f"Checking for downloaded files in: {download_path}")
+    default_runner_path = "/home/runner/Downloads"
+    print(f"Checking for downloaded files in: {default_runner_path}")
     try:
-        files_in_data_folder = os.listdir(download_path)
+        files_in_data_folder = os.listdir(default_runner_path)
         if files_in_data_folder:
             print(f"SUCCESS: File(s) found: {files_in_data_folder}")
         else:
