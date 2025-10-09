@@ -24,6 +24,7 @@ chrome_options = webdriver.ChromeOptions()
 prefs = {
     "download.default_directory": download_path,
     "download.prompt_for_download": False
+    , "download.directory_upgrade": True,
 }
 chrome_options.add_experimental_option("prefs", prefs)
 
