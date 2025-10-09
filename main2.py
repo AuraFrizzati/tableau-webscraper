@@ -29,6 +29,11 @@ url = "https://public.tableau.com/app/profile/victoria6405/viz/WalesHCAISurveill
 
 driver.get(url)
 
+# Print the HTML content of the page
+print("\n--- HTML Source Code ---")
+print(driver.page_source)
+print("--- End of HTML Source Code ---")
+
 
 # Wait for the reject cookies button to be clickable and click it
 time.sleep(1)
