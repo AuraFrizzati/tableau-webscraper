@@ -84,7 +84,7 @@ try:
     driver.save_screenshot("debug_screenshot.png")
     print("Screenshot 'debug_screenshot.png' saved.")
     image_button.click()
-    time.sleep(15)
+    time.sleep(45)
     print("Excel file downloaded!")
     
 
