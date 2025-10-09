@@ -36,11 +36,18 @@ print("--- End of HTML Source Code ---")
 
 
 # Wait for the reject cookies button to be clickable and click it
-time.sleep(1)
-print("Rejecting cookies...")
-btn_reject_cookies = driver.find_element(by="id", value = "onetrust-reject-all-handler")
-btn_reject_cookies.click()
-time.sleep(1)
+try:
+    # Wait for the cookie banner to appear and be clickable
+    btn_reject_cookies = wait.until(
+        EC.element_to_be_clickable((By.ID, "onetrust-reject-all-handler"))
+    )
+    print("Cookie banner found, rejecting cookies...")
+    btn_reject_cookies.click()
+    time.sleep(2)
+    print("Cookies rejected successfully!")
+except TimeoutException:
+    print("Cookie banner not found or not needed - continuing...")
+
 
 
 print("Finding the Excel download link...")
