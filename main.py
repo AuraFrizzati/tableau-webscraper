@@ -29,11 +29,12 @@ driver = webdriver.Chrome(options=chrome_options)
 # Use different URLs based on environment
 if os.environ.get('GITHUB_ACTIONS'):
     # Use a test URL that works on GitHub Actions
-    url = "https://httpbin.org/get"
+    url = "https://automationintesting.com/support/"
     print("Running on GitHub Actions - using test URL")
 else:
     # Use the real URL when running locally
-    url = "https://www2.nphs.wales.nhs.uk/WHAIPDocs.nsf"
+    #url = "https://www2.nphs.wales.nhs.uk/WHAIPDocs.nsf"
+    url = "https://automationintesting.com/support/"
     print("Running locally - using real URL")
 
 try:
@@ -49,11 +50,11 @@ try:
         print("This is likely due to network restrictions or geographic blocking")
     else:
         print("Website loaded successfully")
+        # Print the HTML content of the page
+        print("\n--- HTML Source Code ---")
+        print(driver.page_source)
+        print("--- End of HTML Source Code ---")
         
-        # Only print HTML for test sites to avoid huge outputs
-        if "httpbin" in url:
-            print("\n--- HTML Source Code ---")
-            print(driver.page_source[:1000])  # First 1000 chars only
 
 except Exception as e:
     print(f"An error occurred: {e}")
