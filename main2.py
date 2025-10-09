@@ -36,6 +36,10 @@ print("--- End of HTML Source Code ---")
 
 
 # Wait for the reject cookies button to be clickable and click it
+# Wait for the reject cookies button to be clickable and click it
+print("Looking for cookies banner...")
+wait = WebDriverWait(driver, 10)
+
 try:
     # Wait for the cookie banner to appear and be clickable
     btn_reject_cookies = wait.until(
