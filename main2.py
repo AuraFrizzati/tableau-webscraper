@@ -74,6 +74,9 @@ try:
     image_button.click()
     time.sleep(30)
     print("Excel file downloaded!")
+    
+    driver.save_screenshot("debug_screenshot.png")
+    print("Screenshot 'debug_screenshot.png' saved.")
 
 except TimeoutException as e:
     print(f"An element was not found in time: {e}")
